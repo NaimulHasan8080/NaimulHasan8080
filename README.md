@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadimur Rahman</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulhasan8080&label=Profile%20views&color=0e75b6&style=flat" alt="naimulhasan8080" /> </p>
 
